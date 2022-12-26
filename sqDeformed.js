@@ -60,7 +60,7 @@ function midPoint(p,q){
 }
 
 function deformedSquare(x,y){
-    fill("lightgray");
+    fill("pink");
     let v = [];
     let cp = [];
 
