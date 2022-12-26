@@ -43,7 +43,7 @@ function drawTiling(){
     background(color("white"));
     for (let vecArr of lattice){
 	for (let vec of vecArr){
-	    fill(color("lightgray"));
+	    fill(color("pink"));
 	    deformedSquare(vec.x,vec.y);
 	}
     }
